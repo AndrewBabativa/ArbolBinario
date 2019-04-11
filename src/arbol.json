@@ -1,0 +1,14 @@
+[
+    {
+        "id": "1",
+        "izquierdo": "1",
+        "derecho": "2",
+        "valor": "1986"
+    },
+    {
+        "id": "2",
+        "izquierdo": "3",
+        "derecho": "4",
+        "valor": "1986"
+    }
+]
